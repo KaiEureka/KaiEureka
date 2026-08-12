@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 你好，我是 Kai 👋
+# 你好，我是卡卡 KaKa 👋
 
 **网络安全 · IPv6 过渡技术 · AI Agent 系统**
 
@@ -14,7 +14,7 @@
 
 ## 关于我
 
-我是一名关注网络与系统安全的计算机专业学生。近期研究集中于 IPv6 过渡机制、Linux 内核网络、中间盒行为，以及 AI Agent 系统的可靠评测。
+网上叫我卡卡就好，英文写作 KaKa。我是一名关注网络与系统安全的计算机专业学生。近期研究集中于 IPv6 过渡机制、Linux 内核网络、中间盒行为，以及 AI Agent 系统的可靠评测。
 
 我喜欢从细微的异常行为中找到可复现的问题，将研究线索转化为严谨实验、准确修复和上游开源贡献。
 
@@ -45,7 +45,7 @@
 
 ## About me
 
-I'm a computer science student interested in network and systems security. My recent work focuses on IPv6 transition mechanisms, Linux kernel networking, middlebox behavior, and reliable evaluation for AI agent systems.
+Hi, I'm KaKa. I'm a computer science student interested in network and systems security. My recent work focuses on IPv6 transition mechanisms, Linux kernel networking, middlebox behavior, and reliable evaluation for AI agent systems.
 
 I enjoy turning subtle failure cases into reproducible experiments, precise fixes, and upstream contributions.
 
