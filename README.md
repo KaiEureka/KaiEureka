@@ -21,7 +21,7 @@
 | 项目 | 贡献 |
 | --- | --- |
 | [ayourtch/nat46](https://github.com/ayourtch/nat46) | 修复 ICMPv6 错误报文转换中的内核堆溢出问题，[PR #77](https://github.com/ayourtch/nat46/pull/77) 已合并 |
-| [RISE-X-Lab/OpenCollab](https://github.com/RISE-X-Lab/OpenCollab) | 36 个 PR 已合并，涉及运行时可靠性、LLM 适配、工作流、CI、评测和文档 |
+| [RISE-X-Lab/OpenCollab](https://github.com/RISE-X-Lab/OpenCollab) | 仓库第一贡献者 |
 | [RISE-X-Lab/OpenCollab-Eval](https://github.com/RISE-X-Lab/OpenCollab-Eval) | 2 个 PR 已合并，改进评测报告和双语文档 |
 | [ZouJiu1/numpy_transformer](https://github.com/ZouJiu1/numpy_transformer) | 提交并合并一项缺陷修复，[PR #2](https://github.com/ZouJiu1/numpy_transformer/pull/2) |
 
@@ -52,7 +52,7 @@ I enjoy turning subtle failure cases into reproducible experiments, precise fixe
 | Project | Contribution |
 | --- | --- |
 | [ayourtch/nat46](https://github.com/ayourtch/nat46) | Fixed a kernel heap overflow in ICMPv6 error translation · [PR #77](https://github.com/ayourtch/nat46/pull/77) merged |
-| [RISE-X-Lab/OpenCollab](https://github.com/RISE-X-Lab/OpenCollab) | 36 merged PRs across runtime reliability, LLM adapters, workflows, CI, evaluation, and documentation |
+| [RISE-X-Lab/OpenCollab](https://github.com/RISE-X-Lab/OpenCollab) | Top contributor to the repository |
 | [RISE-X-Lab/OpenCollab-Eval](https://github.com/RISE-X-Lab/OpenCollab-Eval) | 2 merged PRs improving evaluation reports and bilingual documentation |
 | [ZouJiu1/numpy_transformer](https://github.com/ZouJiu1/numpy_transformer) | Contributed a merged bug fix · [PR #2](https://github.com/ZouJiu1/numpy_transformer/pull/2) |
 
