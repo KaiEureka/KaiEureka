@@ -20,8 +20,8 @@
 
 | 项目 | 贡献 |
 | --- | --- |
-| [ayourtch/nat46](https://github.com/ayourtch/nat46) | 修复 ICMPv6 错误报文转换中的内核堆溢出问题，[PR #77](https://github.com/ayourtch/nat46/pull/77) 已合并 |
 | [RISE-X-Lab/OpenCollab](https://github.com/RISE-X-Lab/OpenCollab)<br>[![OpenCollab stars](https://img.shields.io/github/stars/RISE-X-Lab/OpenCollab?style=flat-square&logo=github&label=Stars)](https://github.com/RISE-X-Lab/OpenCollab) | **仓库第一贡献者**。面向科研的高性能多智能体协作编程框架。 |
+| [ayourtch/nat46](https://github.com/ayourtch/nat46) | 修复 ICMPv6 错误报文转换中的内核堆溢出问题，[PR #77](https://github.com/ayourtch/nat46/pull/77) 已合并 |
 | [RISE-X-Lab/OpenCollab-Eval](https://github.com/RISE-X-Lab/OpenCollab-Eval) | **仓库第一贡献者** |
 | [ZouJiu1/numpy_transformer](https://github.com/ZouJiu1/numpy_transformer) | 提交并合并一项缺陷修复，[PR #2](https://github.com/ZouJiu1/numpy_transformer/pull/2) |
 
@@ -51,8 +51,8 @@ I enjoy turning subtle failure cases into reproducible experiments, precise fixe
 
 | Project | Contribution |
 | --- | --- |
-| [ayourtch/nat46](https://github.com/ayourtch/nat46) | Fixed a kernel heap overflow in ICMPv6 error translation · [PR #77](https://github.com/ayourtch/nat46/pull/77) merged |
 | [RISE-X-Lab/OpenCollab](https://github.com/RISE-X-Lab/OpenCollab)<br>[![OpenCollab stars](https://img.shields.io/github/stars/RISE-X-Lab/OpenCollab?style=flat-square&logo=github&label=Stars)](https://github.com/RISE-X-Lab/OpenCollab) | **Top contributor to the repository**. A research-friendly, high-performance multi-agent coding framework. |
+| [ayourtch/nat46](https://github.com/ayourtch/nat46) | Fixed a kernel heap overflow in ICMPv6 error translation · [PR #77](https://github.com/ayourtch/nat46/pull/77) merged |
 | [RISE-X-Lab/OpenCollab-Eval](https://github.com/RISE-X-Lab/OpenCollab-Eval) | **Top contributor to the repository** |
 | [ZouJiu1/numpy_transformer](https://github.com/ZouJiu1/numpy_transformer) | Contributed a merged bug fix · [PR #2](https://github.com/ZouJiu1/numpy_transformer/pull/2) |
 
