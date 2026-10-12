@@ -73,6 +73,6 @@ I enjoy turning subtle failure cases into reproducible experiments, precise fixe
 
 <div align="center">
 
-![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=KaiEureka&theme=github-compact&hide_border=true&area=true)
+[![GitHub contribution activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaiEureka&theme=github_dark)](https://github.com/KaiEureka)
 
 </div>
